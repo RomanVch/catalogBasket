@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/catalogBasket/static/css/main.76beb6e6.chunk.css",
+    "main.js": "/catalogBasket/static/js/main.c680c0e4.chunk.js",
+    "main.js.map": "/catalogBasket/static/js/main.c680c0e4.chunk.js.map",
+    "runtime-main.js": "/catalogBasket/static/js/runtime-main.c1b839c5.js",
+    "runtime-main.js.map": "/catalogBasket/static/js/runtime-main.c1b839c5.js.map",
+    "static/js/2.b7d1920a.chunk.js": "/catalogBasket/static/js/2.b7d1920a.chunk.js",
+    "static/js/2.b7d1920a.chunk.js.map": "/catalogBasket/static/js/2.b7d1920a.chunk.js.map",
+    "static/js/3.dec842a0.chunk.js": "/catalogBasket/static/js/3.dec842a0.chunk.js",
+    "static/js/3.dec842a0.chunk.js.map": "/catalogBasket/static/js/3.dec842a0.chunk.js.map",
+    "index.html": "/catalogBasket/index.html",
+    "static/css/main.76beb6e6.chunk.css.map": "/catalogBasket/static/css/main.76beb6e6.chunk.css.map",
+    "static/js/2.b7d1920a.chunk.js.LICENSE.txt": "/catalogBasket/static/js/2.b7d1920a.chunk.js.LICENSE.txt",
+    "static/media/Rectangle 22.67e7e65b.jpg": "/catalogBasket/static/media/Rectangle 22.67e7e65b.jpg",
+    "static/media/Rectangle 23.850e1a58.jpg": "/catalogBasket/static/media/Rectangle 23.850e1a58.jpg",
+    "static/media/Rectangle 24.d05d1369.jpg": "/catalogBasket/static/media/Rectangle 24.d05d1369.jpg",
+    "static/media/Rectangle 25.9b3ca1ea.jpg": "/catalogBasket/static/media/Rectangle 25.9b3ca1ea.jpg",
+    "static/media/Rectangle 26.c2f83d5f.jpg": "/catalogBasket/static/media/Rectangle 26.c2f83d5f.jpg",
+    "static/media/Rectangle 27.8cd8bf26.jpg": "/catalogBasket/static/media/Rectangle 27.8cd8bf26.jpg",
+    "static/media/addToCart.09b0ab9b.svg": "/catalogBasket/static/media/addToCart.09b0ab9b.svg",
+    "static/media/heartOutline.38ee0649.svg": "/catalogBasket/static/media/heartOutline.38ee0649.svg",
+    "static/media/App.scss": "/catalogBasket/static/media/montserrat-v15-latin_cyrillic-regular.f263cfd0.woff2",
+    "static/media/shoppingBasket-svgrepoCom.a25e5f21.svg": "/catalogBasket/static/media/shoppingBasket-svgrepoCom.a25e5f21.svg",
+    "static/media/up.610cb771.svg": "/catalogBasket/static/media/up.610cb771.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c1b839c5.js",
+    "static/js/2.b7d1920a.chunk.js",
+    "static/css/main.76beb6e6.chunk.css",
+    "static/js/main.c680c0e4.chunk.js"
+  ]
+}
