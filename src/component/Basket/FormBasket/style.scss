@@ -1,0 +1,49 @@
+.wrapperBasketForm {
+  display: flex;
+  flex-direction: column;
+  width: 379px;
+  background: #F7F6F6;
+  border-radius: 20px;
+  margin-left: 33px;
+}
+
+.headerBasketForm {
+  margin-top: 42px;
+}
+
+.wrapperBasketImgs {
+  margin: 25px 31px 32px 0;
+}
+
+.wrapperInputForm {
+  margin-bottom: 20px;
+
+  div {
+    width: 288px;
+  }
+}
+
+.amountForm {
+  font-size: 24px;
+  line-height: 29px;
+
+  span {
+  font-weight: 600;
+  }
+}
+.btnForm{
+  background: none;
+  border-radius: 20px;
+  border: 1px solid black;
+  width: 290px;
+  height: 41px;
+  margin-top: 20px;
+  margin-bottom: 148px;
+  margin-left: 45px;
+  font-size: 16px;
+  line-height: 20px;
+font-weight: 400;
+}
+.btnForm:hover{
+  background-color: black;
+  color: white}

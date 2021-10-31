@@ -1,0 +1,20 @@
+@font-face {
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 400;
+  src: url('../src/other/fonts/montserrat-v15-latin_cyrillic-regular.woff2') format('woff2');
+  src: url('../src/other/fonts/montserrat-v15-latin_cyrillic-regular.woff') format('woff');
+}
+
+.App {
+  padding: 28px 120px 71px;
+  text-align: center;
+  font-size: 14px;
+  font-family: 'Montserrat', sans-serif;
+  font-style: normal;
+  font-weight: normal;
+  line-height: 17px;
+}
+
+
+

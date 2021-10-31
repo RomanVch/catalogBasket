@@ -1,0 +1,68 @@
+.description {
+  text-align: left;
+  color: #888888;
+  font-size: 14px;
+  line-height: 17px;
+}
+
+.containerBasketCard {
+  display: flex;
+  border-top: 0.5px solid #CACDD8;
+  padding: 10px 0;
+}
+
+.title {
+  font-weight: 500;
+  font-size: 24px;
+  line-height: 29px;
+  text-align: left;
+}
+
+.price {
+  font-weight: 500;
+  font-size: 24px;
+  line-height: 29px;
+  text-align: left;
+}
+
+.home__icon path {
+  stroke: darkcyan;
+  fill: darkcyan;
+  stroke-width: 1px;
+}
+
+.btnImg {
+  background: none;
+  border: none;
+}
+
+.wrapperImgs {
+  position: relative;
+}
+
+.wrapperButton {
+  position: absolute;
+  top: 10px;
+  right: 10px;
+}
+
+.btnBasketCard {
+  background: none;
+  border: none;
+  text-decoration-line: underline;
+  font-size: 14px;
+  line-height: 210%;
+}
+
+.wrapperCount {
+  margin-left: auto;
+}
+
+.btnGroupBasketCard {
+  margin-left: -5px;
+  text-align: left;
+}
+
+.wrapperTextBasketCard {
+  margin-right: 40px;
+}

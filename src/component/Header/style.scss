@@ -1,0 +1,12 @@
+.header {
+  display: flex;
+  justify-content: space-between;
+}
+
+.header_main{
+  &:before {
+    content: "/";
+    display: inline;
+    margin-right: 5px;
+  }
+}

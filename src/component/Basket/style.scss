@@ -1,0 +1,68 @@
+.header {
+  font-size: 16px;
+  line-height: 20px;
+}
+
+.basketWrapper {
+  margin: 79px 0;
+  display: flex;
+  justify-content: space-around;
+}
+
+.goodsFormBasket {
+  display: flex;
+}
+
+.basketHeaderWrapper {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.btnCard {
+  background: none;
+  border-radius: 20px;
+  border: 1px solid black;
+  width: 220px;
+  height: 41px;
+  margin-bottom: 148px;
+  font-size: 16px;
+  line-height: 20px;
+  font-weight: 400;
+  margin-right: 7px;
+}
+
+.btnCard:hover {
+  background-color: black;
+  color: white
+}
+
+.LinkBasket {
+  display: block;
+  text-decoration: none;
+  border: 1px solid black;
+  border-radius: 20px;
+  width: 220px;
+  height: 29px;
+  padding-top: 10px;
+  color: black;
+  font-size: 16px;
+  line-height: 20px;
+  font-weight: 400;
+}
+
+.LinkBasket:hover {
+  background-color: black;
+  color: white
+}
+
+.btnBasketGroup {
+  display: flex;
+}
+.basketNull{
+  font-size: 50px;
+  text-align: center;
+  line-height: 20px;
+  font-weight: 600;
+  margin: auto;
+}

@@ -1,0 +1,59 @@
+.description {
+  text-align: left;
+  color: #888888;
+  font-size: 14px;
+  line-height: 17px;
+}
+
+.containerCard {
+  width: 379px;
+}
+.containerCard:hover .wrapperButton{
+  display: block;
+}
+.title {
+  font-weight: 500;
+  font-size: 24px;
+  line-height: 29px;
+  text-align: left;
+}
+
+.price {
+  font-weight: 500;
+  font-size: 24px;
+  line-height: 29px;
+  text-align: left;
+}
+
+.home__icon path  {
+  stroke: darkcyan;
+  fill: darkcyan;
+  stroke-width: 1px;
+}
+
+.btnImg {
+  background: none;
+  border: none;
+
+}
+.btnImg:hover .home__icon path{
+  stroke: lightblue;
+  fill: lightblue;
+  stroke-width: 1px;
+}
+.btnImg:hover .likeHover path{
+  stroke: lightblue;
+  fill: lightblue;
+  stroke-width: 1px;
+}
+
+.wrapperImgs {
+  position: relative;
+}
+
+.wrapperButton {
+  position: absolute;
+  display: none;
+  top: 10px;
+  right: 10px;
+}

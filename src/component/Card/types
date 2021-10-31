@@ -1,0 +1,7 @@
+export type CardType = {
+    img: File,
+    title: string,
+    description: string,
+    price: number,
+    onHandler: () => void,
+}

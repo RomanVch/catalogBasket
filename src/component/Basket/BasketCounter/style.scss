@@ -1,0 +1,32 @@
+.countBasketCard{
+  display: flex;
+  background-color:#F7F6F6;
+  justify-content: space-between;
+  width: 71px;
+  height: 50px;
+  margin-top: 23px;
+
+}
+.btnCountBasketCardWrapper{
+  display: flex;
+  flex-direction: column;
+  margin-top: 5px;
+
+  button {
+    background: none;
+    border: none;
+  }
+}
+.numberCountBasketCard{
+  font-weight: 600;
+  font-size: 14px;
+  line-height: 210%;
+  width: 47px;
+  height: 17px;
+  margin-top: 11px;
+}
+.btnDownSvg{
+  margin-top: 10px;
+  transform: rotate(180deg)
+}
+.wrapperBasketCard{width: 71px}
